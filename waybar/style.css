@@ -55,7 +55,7 @@ button:hover {
 #workspaces button {
     padding: 4px 15px 4px  7px;
     margin: 5px 2px 5px 2px;
-    border-radius: 5px;
+    border-radius: 1px;
     background-color: rgba(0, 0, 0, 0.6);
     color: #ffffff;
 }
@@ -109,14 +109,14 @@ button:hover {
 #mpd {
   padding: 2px 8px;
   margin: 5px 2px 5px 6px;
-  border-radius: 8px;
+  border-radius: 1px;
   background: #2a2a37;
 }
 
 #custom-fedora {
   font-weight: bold;
-  color: #7aa2f7;        /* Arch blue */
+  color: #7aa2f7;
   padding: 4px 13px 4px 10px;
   margin: 5px 2px 5px 6px;
-  font-size: 18px;       /* Increase size here */
+  font-size: 18px;
 }
